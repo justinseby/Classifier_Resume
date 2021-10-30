@@ -1,1 +1,3 @@
 # Classifier_Resume
+Recruitment in the Computer Science and IT sector has seen an exponential increase in recent times. Companies around the globe recruit thousands of young talent directly from the college every year through campus placement fairs. Allotment of the projects to the recruits is one of the discomfort points for the organisation. The Human Resources(HR) team is entrusted with the responsibility of allocating tasks to the recruits. 
+This project focus on classifying resumes into different categories( I Industries). The classification is based on various aspects like the industry that the candidate was applying to, the candidate's technical skills, etc. 
